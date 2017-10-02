@@ -40,5 +40,11 @@ for (z <- 0 until s.length)
 val frutas = Array("Pera", "Manzana", "Uvas")
 
 frutas.apply(2)
-println(frutas.size)
+println(frutas.length)
+
+println(frutas.isEmpty)
+
+val num = List(1,2,3,4,5,6)
+
+
 
