@@ -38,3 +38,7 @@ for (z <- 0 until s.length)
   println(s.charAt(z))
 
 val frutas = Array("Pera", "Manzana", "Uvas")
+
+frutas.apply(2)
+println(frutas.size)
+
